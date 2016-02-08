@@ -313,3 +313,18 @@ li {
 img {
     max-width: 100%;
 }
+
+.blog-articles p:first-letter {
+    float: left; 
+    font-size: 3.5em; 
+    font-weight: 600;
+    line-height: 1em; 
+    padding-top: 4px; 
+    padding-right: 8px; 
+    padding-left: 3px;
+}
+
+a:hover {
+    color: #606161;
+}
+
